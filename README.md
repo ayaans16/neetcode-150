@@ -1,4 +1,4 @@
-# Leetcode
+# neetcode 150 categories
 ---
 - [ ] arrays & hashing
 - [ ] two pointers
