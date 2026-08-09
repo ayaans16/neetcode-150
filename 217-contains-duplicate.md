@@ -1,8 +1,8 @@
-/*
+
 **Problem:** https://leetcode.com/problems/contains-duplicate/ <br />
 **Language:** Java
-*/
 
+```java
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         // sort the array in ascending order
@@ -19,3 +19,4 @@ class Solution {
         return false;
     }
 }
+```
