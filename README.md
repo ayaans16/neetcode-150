@@ -1,20 +1,2 @@
-# neetcode 150 categories
----
-- [ ] arrays & hashing
-- [ ] two pointers
-- [ ] sliding window
-- [ ] stack
-- [ ] binary search
-- [ ] linked list
-- [ ] trees
-- [ ] heap / priority queue
-- [ ] backtracking
-- [ ] tries
-- [ ] graphs
-- [ ] advanced graphs
-- [ ] 1-d dp
-- [ ] 2-d dp
-- [ ] greedy
-- [ ] intervals
-- [ ] math & geometry
-- [ ] bit manipulation
+# Leetcode & Neetcode
+journey on neetcode + leetcode

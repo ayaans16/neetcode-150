@@ -1,4 +1,3 @@
-```java
 class Solution {
     public int singleNumber(int[] nums) {
         // sort array
@@ -32,4 +31,3 @@ class Solution {
         return -1;
     }
 }
-```

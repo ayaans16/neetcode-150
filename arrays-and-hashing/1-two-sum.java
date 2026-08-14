@@ -1,7 +1,3 @@
-
-**Problem:** https://leetcode.com/problems/two-sum <br />
-**Language:** Java
-```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         // create the hash map
@@ -25,8 +21,4 @@ class Solution {
         return sol;
     }
 }
-```
-
-> [!WARNING]
-> Do not use arrays, use a hash map.
 

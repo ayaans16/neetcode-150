@@ -1,7 +1,3 @@
-
-**Problem:** https://leetcode.com/problems/valid-anagram <br />
-**Language:** Java
-```java
 class Solution {
     public boolean isAnagram(String s, String t) {
         String[] r = s.split("");
@@ -17,6 +13,3 @@ class Solution {
         return false;
     }
 }
-```
-> [!CAUTION]
-> Do not compare arrays literally (i.e., do not do `if (r == u) ...`, use `Arrays.equals(a, b)` which will return a Boolean.

@@ -1,4 +1,3 @@
-```java
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
 
@@ -26,6 +25,3 @@ class Solution {
         return new ArrayList<>(hash.values());
     }
 }
-```
-> [!NOTE]
-> Learn all key functions for hash maps and lists

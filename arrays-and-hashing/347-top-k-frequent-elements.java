@@ -1,4 +1,3 @@
-```java
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         // mapping integer with number of times it appeared
@@ -50,7 +49,3 @@ class Solution {
         return sol;
     }
 }
-```
-> [!IMPORTANT]
-> - [ ] understand necessity for frequency table
-> - [ ] array indexing was important

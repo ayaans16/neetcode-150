@@ -1,4 +1,3 @@
-```java
 class Solution {
     public int search(int[] nums, int target) {
         // lowest index is 0, highest is length (n) - 1
@@ -26,4 +25,3 @@ class Solution {
         return -1;
     }
 }
-```
